@@ -10,10 +10,11 @@ parameter = np.array([ 1.0000000, 0.0156250, 0.0000000], dtype=float)
 matrix_file='/Experiences/Numerical_Methods/Lab1/RGEmtr029.dat'
 vector_file='/Experiences/Numerical_Methods/Lab1/RGErhs029.dat'
 
-print_factorization_result = False
-print_approximate_data = False
+print_factorization_result = True
+print_approximate_data = True
 
 #NumPy data types https://numpy.org/devdocs/user/basics.types.html
+# В качестве float`а C использовать float32 numpy. Он фиксированный т.е. не зависит от машины, ПО. См. https://en.cppreference.com/w/cpp/language/types
 def get_value(filename, dimension=dimension, subject='matrix') -> float:
     """ Read matrix or vector from file and return numpy array """
     with open(filename, 'r') as input:
