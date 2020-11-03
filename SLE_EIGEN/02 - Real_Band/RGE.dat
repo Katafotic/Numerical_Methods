@@ -1,0 +1,1592 @@
+
+     Variant number   1.
+     Real General Band Matrix with dimension =  22
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.871163E-10.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.821223E-10.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.589629672904097D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.820287E-10.
+
+     Variant number   2.
+     Real General Band Matrix with dimension =  22
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.736219340042625D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.103499E-09.
+
+     Variant number   3.
+     Real General Band Matrix with dimension =  25
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 9.473208E-11.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 9.348691E-11.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.975662821808570D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 9.346370E-11.
+
+     Variant number   4.
+     Real General Band Matrix with dimension =  22
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.368959E-08.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.464786523193281D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.355933E-09.
+
+     Variant number   5.
+     Real General Band Matrix with dimension =  15
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.066909E-07.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.331313E-09.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.983329399130256D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.464089E-09.
+
+     Variant number   6.
+     Real General Band Matrix with dimension =  21
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   1
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.392613381757829D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 6.483560E-10.
+
+     Variant number   7.
+     Real General Band Matrix with dimension =  27
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.236093489380733D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.133335E-09.
+
+     Variant number   8.
+     Real General Band Matrix with dimension =  16
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.926222641068263D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.583038E-10.
+
+     Variant number   9.
+     Real General Band Matrix with dimension =  23
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.881190586463712D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 6.292483E-10.
+
+     Variant number  10.
+     Real General Band Matrix with dimension =  21
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.084031847380038D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.667131E-09.
+
+     Variant number  11.
+     Real General Band Matrix with dimension =  27
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   1
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.161018559559075D-18.
+
+ *** FATAL    ERROR 2 from LFCRB.  The input matrix is singular.  Some of the
+ ***          diagonal elements of the upper triangular matrix U of the LU 
+ ***          factorization are equal to zero.
+
+ *** TERMINAL ERROR 6 from LFSRB.  The input matrix is singular.  Some of the
+ ***          diagonal elements of the upper triangular matrix U of the LU 
+ ***          factorization are close to zero.
+
+     Variant number  12.
+     Real General Band Matrix with dimension =  19
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 8.699370250467275D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.457258E-09.
+
+     Variant number  13.
+     Real General Band Matrix with dimension =  24
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 6.653690E-11.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 6.562337E-11.
+
+ *** FATAL    ERROR 2 from DLFCRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are equal to zero.
+
+ *** TERMINAL ERROR 6 from DLFSRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are close to zero.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 6.560594E-11.
+
+     Variant number  14.
+     Real General Band Matrix with dimension =  20
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.447639783106630D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.064156E-09.
+
+     Variant number  15.
+     Real General Band Matrix with dimension =  10
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   1
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.900605306633950D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.274648E-10.
+
+     Variant number  16.
+     Real General Band Matrix with dimension =  11
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.291583473301686D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.064062E-09.
+
+     Variant number  17.
+     Real General Band Matrix with dimension =  15
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.077548408475458D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 8.675752E-10.
+
+     Variant number  18.
+     Real General Band Matrix with dimension =  29
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.780793E-10.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.716627E-10.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 8.783064501804171D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.715373E-10.
+
+     Variant number  19.
+     Real General Band Matrix with dimension =  13
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.259349809648364D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 8.014673E-11.
+
+     Variant number  20.
+     Real General Band Matrix with dimension =  12
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.811837146549200D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.395985E-09.
+
+     Variant number  21.
+     Real General Band Matrix with dimension =  28
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.358026E-10.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 7.902956482412873D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 8.852976E-11.
+
+     Variant number  22.
+     Real General Band Matrix with dimension =  26
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.339894507106734D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.830052E-10.
+
+     Variant number  23.
+     Real General Band Matrix with dimension =  23
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.920847659773964D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 9.721890E-10.
+
+     Variant number  24.
+     Real General Band Matrix with dimension =  26
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 7.414288937220004D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 9.362151E-10.
+
+     Variant number  25.
+     Real General Band Matrix with dimension =  28
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.505349E-10.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.492917E-10.
+
+ *** FATAL    ERROR 2 from DLFCRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are equal to zero.
+
+ *** TERMINAL ERROR 6 from DLFSRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are close to zero.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.492690E-10.
+
+     Variant number  26.
+     Real General Band Matrix with dimension =  20
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   1
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 9.544123911602725D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.092984E-10.
+
+     Variant number  27.
+     Real General Band Matrix with dimension =  11
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   1
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.118917949499022D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 9.411284E-10.
+
+     Variant number  28.
+     Real General Band Matrix with dimension =  24
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.140826091168200D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.750843E-09.
+
+     Variant number  29.
+     Real General Band Matrix with dimension =  11
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.229279272761305D-17.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.411804E-09.
+
+     Variant number  30.
+     Real General Band Matrix with dimension =  21
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.714273352402878D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.343405E-10.
+
+     Variant number  31.
+     Real General Band Matrix with dimension =  22
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.240581844004941D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.366977E-09.
+
+     Variant number  32.
+     Real General Band Matrix with dimension =  12
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** FATAL    ERROR 2 from DLFCRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are equal to zero.
+
+ *** TERMINAL ERROR 6 from DLFSRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are close to zero.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.951645E-10.
+
+     Variant number  33.
+     Real General Band Matrix with dimension =  15
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** FATAL    ERROR 2 from DLFCRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are equal to zero.
+
+ *** TERMINAL ERROR 6 from DLFSRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are close to zero.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 9.476954E-10.
+
+     Variant number  34.
+     Real General Band Matrix with dimension =  11
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.864078564209662D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.666513E-09.
+
+     Variant number  35.
+     Real General Band Matrix with dimension =  25
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.578130E-08.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.956486513485841D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.546104E-10.
+
+     Variant number  36.
+     Real General Band Matrix with dimension =  24
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 9.738264319309895D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.116975E-09.
+
+     Variant number  37.
+     Real General Band Matrix with dimension =  12
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 7.595799E-09.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.524101E-10.
+
+ *** FATAL    ERROR 2 from DLFCRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are equal to zero.
+
+ *** TERMINAL ERROR 6 from DLFSRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are close to zero.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.523544E-10.
+
+     Variant number  38.
+     Real General Band Matrix with dimension =  23
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.964446017954926D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.538062E-09.
+
+     Variant number  39.
+     Real General Band Matrix with dimension =  19
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.195250E-08.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.342612E-09.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.571637124199530D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.373384E-10.
+
+     Variant number  40.
+     Real General Band Matrix with dimension =  12
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** FATAL    ERROR 2 from DLFCRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are equal to zero.
+
+ *** TERMINAL ERROR 6 from DLFSRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are close to zero.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.324364E-09.
+
+     Variant number  41.
+     Real General Band Matrix with dimension =  11
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.308588869369679D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 7.542089E-10.
+
+     Variant number  42.
+     Real General Band Matrix with dimension =  15
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.089263352384976D-17.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.911172E-09.
+
+     Variant number  43.
+     Real General Band Matrix with dimension =  25
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   1
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 7.313413675820204D-20.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.051630E-10.
+
+     Variant number  44.
+     Real General Band Matrix with dimension =  23
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.714035778265817D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.127099E-09.
+
+     Variant number  45.
+     Real General Band Matrix with dimension =  23
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.858258278706169D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.170279E-09.
+
+     Variant number  46.
+     Real General Band Matrix with dimension =  15
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.262654E-09.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.174522E-10.
+
+ *** FATAL    ERROR 2 from DLFCRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are equal to zero.
+
+ *** TERMINAL ERROR 6 from DLFSRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are close to zero.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.174146E-10.
+
+     Variant number  47.
+     Real General Band Matrix with dimension =  11
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.379572974907677D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 6.948154E-09.
+
+     Variant number  48.
+     Real General Band Matrix with dimension =  30
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.589578E-11.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 8.566838563536296D-17.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.567022E-11.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.160167973419622D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.566622E-11.
+
+     Variant number  49.
+     Real General Band Matrix with dimension =  20
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.094803E-08.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.542448667918529D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 9.016481E-10.
+
+     Variant number  50.
+     Real General Band Matrix with dimension =  11
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.830111025937849D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.299227E-09.
+
+     Variant number  51.
+     Real General Band Matrix with dimension =  27
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   2
+
+ *** FATAL    ERROR 2 from LFCRB.  The input matrix is singular.  Some of the
+ ***          diagonal elements of the upper triangular matrix U of the LU 
+ ***          factorization are equal to zero.
+
+ *** TERMINAL ERROR 6 from LFSRB.  The input matrix is singular.  Some of the
+ ***          diagonal elements of the upper triangular matrix U of the LU 
+ ***          factorization are close to zero.
+
+ *** FATAL    ERROR 2 from LFCRB.  The input matrix is singular.  Some of the
+ ***          diagonal elements of the upper triangular matrix U of the LU 
+ ***          factorization are equal to zero.
+
+ *** TERMINAL ERROR 6 from LFSRB.  The input matrix is singular.  Some of the
+ ***          diagonal elements of the upper triangular matrix U of the LU 
+ ***          factorization are close to zero.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.025643393336614D-18.
+
+ *** FATAL    ERROR 2 from LFCRB.  The input matrix is singular.  Some of the
+ ***          diagonal elements of the upper triangular matrix U of the LU 
+ ***          factorization are equal to zero.
+
+ *** TERMINAL ERROR 6 from LFSRB.  The input matrix is singular.  Some of the
+ ***          diagonal elements of the upper triangular matrix U of the LU 
+ ***          factorization are close to zero.
+
+     Variant number  52.
+     Real General Band Matrix with dimension =  26
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 8.240714067068197D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.076145E-10.
+
+     Variant number  53.
+     Real General Band Matrix with dimension =  16
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.201451487021704D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.067473E-09.
+
+     Variant number  54.
+     Real General Band Matrix with dimension =  14
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 6.080926486206374D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.726383E-09.
+
+     Variant number  55.
+     Real General Band Matrix with dimension =  22
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.165519828016322D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.290798E-10.
+
+     Variant number  56.
+     Real General Band Matrix with dimension =  14
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   1
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.231768876479749D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.987939E-10.
+
+     Variant number  57.
+     Real General Band Matrix with dimension =  13
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.656442E-08.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.214124E-09.
+
+ *** FATAL    ERROR 2 from DLFCRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are equal to zero.
+
+ *** TERMINAL ERROR 6 from DLFSRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are close to zero.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.040291E-10.
+
+     Variant number  58.
+     Real General Band Matrix with dimension =  12
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   3
+
+ *** FATAL    ERROR 2 from DLFCRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are equal to zero.
+
+ *** TERMINAL ERROR 6 from DLFSRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are close to zero.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.355607E-09.
+
+     Variant number  59.
+     Real General Band Matrix with dimension =  20
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   1
+
+ *** FATAL    ERROR 2 from DLFCRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are equal to zero.
+
+ *** TERMINAL ERROR 6 from DLFSRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are close to zero.
+
+ *** FATAL    ERROR 2 from LFCRB.  The input matrix is singular.  Some of the
+ ***          diagonal elements of the upper triangular matrix U of the LU 
+ ***          factorization are equal to zero.
+
+ *** TERMINAL ERROR 6 from LFSRB.  The input matrix is singular.  Some of the
+ ***          diagonal elements of the upper triangular matrix U of the LU 
+ ***          factorization are close to zero.
+
+     Variant number  60.
+     Real General Band Matrix with dimension =  21
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   1
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.777352118225614D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.964318E-10.
+
+     Variant number  61.
+     Real General Band Matrix with dimension =  27
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 8.677355939541453D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.074458E-09.
+
+     Variant number  62.
+     Real General Band Matrix with dimension =  20
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   1
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.889898481145101D-21.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.765688E-11.
+
+     Variant number  63.
+     Real General Band Matrix with dimension =  16
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.773824486304832D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.754565E-09.
+
+     Variant number  64.
+     Real General Band Matrix with dimension =  28
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.638831809010095D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.557894E-10.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 8.024340880744624D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.551873E-10.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 8.023810122539334D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.551771E-10.
+
+     Variant number  65.
+     Real General Band Matrix with dimension =  11
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.034012184406963D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.783269E-09.
+
+     Variant number  66.
+     Real General Band Matrix with dimension =  16
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.055583E-07.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.434675941775012D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.614489E-09.
+
+     Variant number  67.
+     Real General Band Matrix with dimension =  25
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   1
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.501198080006764D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.998838E-10.
+
+     Variant number  68.
+     Real General Band Matrix with dimension =  16
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 8.965918674977982D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 9.105258E-10.
+
+     Variant number  69.
+     Real General Band Matrix with dimension =  25
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   1
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 9.180319974384042D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.648768E-10.
+
+     Variant number  70.
+     Real General Band Matrix with dimension =  20
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.259734354263084D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.392655E-09.
+
+     Variant number  71.
+     Real General Band Matrix with dimension =  28
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   1
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.548527370480551D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.542343E-10.
+
+     Variant number  72.
+     Real General Band Matrix with dimension =  23
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.585471E-08.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.923515042705055D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.255577E-09.
+
+     Variant number  73.
+     Real General Band Matrix with dimension =  25
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 6.972965629388689D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.332759E-09.
+
+     Variant number  74.
+     Real General Band Matrix with dimension =  13
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 7.753986E-09.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.840553776108999D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.004812E-09.
+
+     Variant number  75.
+     Real General Band Matrix with dimension =  24
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 9.605682E-11.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 9.534354E-11.
+
+ *** FATAL    ERROR 2 from DLFCRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are equal to zero.
+
+ *** TERMINAL ERROR 6 from DLFSRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are close to zero.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 9.533081E-11.
+
+     Variant number  76.
+     Real General Band Matrix with dimension =  27
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.180810678576958D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 8.448238E-10.
+
+     Variant number  77.
+     Real General Band Matrix with dimension =  30
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 8.416827867987838D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.551439E-09.
+
+     Variant number  78.
+     Real General Band Matrix with dimension =  29
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.829164E-10.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.757186E-10.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.169424014501968D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.755844E-10.
+
+     Variant number  79.
+     Real General Band Matrix with dimension =  10
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   3
+
+ *** FATAL    ERROR 2 from DLFCRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are equal to zero.
+
+ *** TERMINAL ERROR 6 from DLFSRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are close to zero.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.960198E-09.
+
+     Variant number  80.
+     Real General Band Matrix with dimension =  21
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.855530510026852D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.441328E-09.
+
+     Variant number  81.
+     Real General Band Matrix with dimension =  20
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   1
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.169627340174412D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 6.655047E-12.
+
+     Variant number  82.
+     Real General Band Matrix with dimension =  14
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.545388E-09.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 8.434704E-11.
+
+ *** FATAL    ERROR 2 from DLFCRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are equal to zero.
+
+ *** TERMINAL ERROR 6 from DLFSRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are close to zero.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 8.432533E-11.
+
+     Variant number  83.
+     Real General Band Matrix with dimension =  17
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 7.909281934772345D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 8.460218E-10.
+
+     Variant number  84.
+     Real General Band Matrix with dimension =  23
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 9.474282534283151D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.953762E-09.
+
+     Variant number  85.
+     Real General Band Matrix with dimension =  22
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.398338E-10.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.074138E-10.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 7.029591254567164D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.073480E-10.
+
+     Variant number  86.
+     Real General Band Matrix with dimension =  13
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   1
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.586632125335501D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.022098E-09.
+
+     Variant number  87.
+     Real General Band Matrix with dimension =  23
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   1
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.454401741579917D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.561485E-10.
+
+     Variant number  88.
+     Real General Band Matrix with dimension =  13
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.063172443767071D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.280080E-09.
+
+     Variant number  89.
+     Real General Band Matrix with dimension =  26
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.635117E-11.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.586826E-11.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.177612419868923D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.585925E-11.
+
+     Variant number  90.
+     Real General Band Matrix with dimension =  14
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.985307392622414D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.692450E-10.
+
+     Variant number  91.
+     Real General Band Matrix with dimension =  27
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.816574E-08.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.763379E-11.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.407553083162097D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.762948E-11.
+
+     Variant number  92.
+     Real General Band Matrix with dimension =  18
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.217914E-10.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.180269E-10.
+
+ *** FATAL    ERROR 2 from DLFCRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are equal to zero.
+
+ *** TERMINAL ERROR 6 from DLFSRB.  The input matrix is singular.  Some of
+ ***          the diagonal elements of the upper triangular matrix U of the 
+ ***          LU factorization are close to zero.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 4.179598E-10.
+
+     Variant number  93.
+     Real General Band Matrix with dimension =  23
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.959511E-08.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.161030517166026D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.133915E-10.
+
+     Variant number  94.
+     Real General Band Matrix with dimension =  23
+     Number of lower codiagonals of A        =   1
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 9.299306E-10.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 9.195086E-10.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.413477530745206D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 9.193154E-10.
+
+     Variant number  95.
+     Real General Band Matrix with dimension =  12
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   1
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.803587380738557D-20.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.657763E-11.
+
+     Variant number  96.
+     Real General Band Matrix with dimension =  20
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.518161411364458D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.159897E-10.
+
+     Variant number  97.
+     Real General Band Matrix with dimension =  13
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   2
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 2.513132634232025D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.086809E-09.
+
+     Variant number  98.
+     Real General Band Matrix with dimension =  16
+     Number of lower codiagonals of A        =   2
+     Number of upper codiagonals of A        =   3
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.644681E-08.
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.726675961996179D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.088987E-11.
+
+     Variant number  99.
+     Real General Band Matrix with dimension =  24
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   1
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 5.227946184041910D-19.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 3.325435E-10.
+
+     Variant number 100.
+     Real General Band Matrix with dimension =  14
+     Number of lower codiagonals of A        =   3
+     Number of upper codiagonals of A        =   1
+
+ *** WARNING  ERROR 1 from DLFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.785484565356023D-18.
+
+ *** WARNING  ERROR 1 from LFCRB.  The matrix is algorithmically singular. 
+ ***          An estimate of the reciprocal of its L1 condition number is 
+ ***          RCOND = 1.097953E-09.
